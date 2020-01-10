@@ -1,0 +1,48 @@
+body {
+background-color: #e4df93 !important;
+}
+
+#row1 {
+  background-color: white;
+  width: 100%;
+  height: 175px;
+  padding-bottom: 3px;
+  text-align: center;
+}
+#row2 {
+  background-color: white;
+  width: 100%;
+  height: 175px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+#row3 {
+  background-color: white;
+  width: 100%;
+  height: 175px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+#row4 {
+  background-color: white;
+  width: 100%;
+  height: 175px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+.footer {
+  background-color: #e4df93;
+}
+
+#beegborat {
+background-color: white;
+}
+
+#borat1 {
+  background-color: white;
+}
+
+#borat2 {
+  background-color: white;
+}
